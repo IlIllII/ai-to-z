@@ -6,7 +6,7 @@
         <span class="small-letters nav-title">to</span>
         <span class="big-letters nav-title">Z</span>
       </router-link>
-      <router-link class="about" to="/about">ABOUT</router-link>
+      <router-link class="about" to="/">ABOUT</router-link>
     </div>
 
     <router-view v-slot="{ Component, route }" style="position: relative">
@@ -19,13 +19,19 @@
       <hr />
       <div class="horizontal-flex">
         <div class="horizontal-flex">
-          <a class="footer-element" href="">Privacy Policy</a>
-          <a class="footer-element" href="">Terms of Use</a>
-          <a class="footer-element" href="">English (UnitedStates)</a>
+          <a class="footer-element" href="/">Privacy Policy</a>
+          <a class="footer-element" href="/">Terms of Use</a>
+          <a class="footer-element" href="/">English (UnitedStates)</a>
         </div>
         <div class="horizontal-flex">
-          <a class="footer-element" href="">Logo</a>
-          <a class="footer-element" href="">In partnership with</a>
+          <a class="footer-element" href="/">
+            <div class="vertical-flex">
+              <span>OXFORD</span>
+              <span><strong>INTERNET</strong></span>
+              <span><strong>INSITUTE</strong></span>
+            </div>
+          </a>
+          <a class="footer-element" href="/"><img src="./assets/image/google-logo.png" alt=""></a>
         </div>
       </div>
     </footer>
@@ -123,6 +129,14 @@ hr {
   justify-content: space-between;
   align-items: center;
   padding: 30px;
+}
+
+.vertical-flex {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
 }
 
 .footer-element {
