@@ -1,0 +1,158 @@
+[
+    {
+        "letter": "A",
+        "title": "Aritificial Intelligence",
+        "blurb": "AI is a program that learns and adapts by istelf.",
+        "group": "fundamentals"
+    },
+    {
+        "letter": "B",
+        "title": "Bias",
+        "blurb": "Incomplete data can lead to bias in AI.",
+        "group": "fundamentals"
+    },
+    {
+        "letter": "C",
+        "title": "Climate",
+        "blurb": "AI is being used to tackle global climate challenges.",
+        "group": "society"
+    },
+    {
+        "letter": "D",
+        "title": "Datasets",
+        "blurb": "The information used to teach AI about the world.",
+        "group": "fundamentals"
+    },
+    {
+        "letter": "E",
+        "title": "Ethics",
+        "blurb": "Guidelines that govern how AI is built and used.",
+        "group": "society"
+    },
+    {
+        "letter": "F",
+        "title": "Fakes",
+        "blurb": "Fake images, audio, or video made using AI.",
+        "group": "society"
+    },
+    {
+        "letter": "G",
+        "title": "GANs",
+        "blurb": "Two AI systems that train against each other.",
+        "group": "making"
+    },
+    {
+        "letter": "H",
+        "title": "Human-in-the-Loop",
+        "blurb": "A human being who guides an AI system as it learns.",
+        "group": "making"
+    },
+    {
+        "letter": "I",
+        "title": "Image Recognition",
+        "blurb": "How AI systems learn to 'see' the world around them.",
+        "group": "making"
+    },
+    {
+        "letter": "J",
+        "title": "Journalism",
+        "blurb": "Journalists are using AI to transform the news industry.",
+        "group": "society"
+    },
+    {
+        "letter": "K",
+        "title": "Knowledge",
+        "blurb": "AI systems build knowledge different than humans.",
+        "group": "making"
+    },
+    {
+        "letter": "L",
+        "title": "Learning",
+        "blurb": "The different methods used to teach AI.",
+        "group": "making"
+    },
+    {
+        "letter": "M",
+        "title": "Machine Learning",
+        "blurb": "When AI learns for itself through data.",
+        "group": "fundamentals"
+    },
+    {
+        "letter": "N",
+        "title": "Neural Netoworks",
+        "blurb": "AI systems inspired by the human brain.",
+        "group": "making"
+    },
+    {
+        "letter": "O",
+        "title": "Open Source",
+        "blurb": "Code and data that's free for anyone to use.",
+        "group": "making"
+    },
+    {
+        "letter": "P",
+        "title": "Predictions",
+        "blurb": "An AI system's output is a prediction of likelihood.",
+        "group": "using"
+    },
+    {
+        "letter": "Q",
+        "title": "Quantum Computing",
+        "blurb": "Processing information in a completely different way.",
+        "group": "making"
+    },
+    {
+        "letter": "R",
+        "title": "Robotics",
+        "blurb": "The study of machines built to automate tasks.",
+        "group": "using"
+    },
+    {
+        "letter": "S",
+        "title": "Speech Recognition",
+        "blurb": "Technology that helps AI to understand human speech.",
+        "group": "making"
+    },
+    {
+        "letter": "T",
+        "title": "Turing Test",
+        "blurb": "A famous test for computers.",
+        "group": "fundamentals"
+    },
+    {
+        "letter": "U",
+        "title": "Uses",
+        "blurb": "How AI shows up in the world today.",
+        "group": "using"
+    },
+    {
+        "letter": "V",
+        "title": "Virtual Assistants",
+        "blurb": "AI-slaves that carry out tasks for people.",
+        "group": "using"
+    },
+    {
+        "letter": "W",
+        "title": "Watson",
+        "blurb": "The first AI to beat humans in Jeopardy.",
+        "group": "using"
+    },
+    {
+        "letter": "X",
+        "title": "X-Ray",
+        "blurb": "AI is helping doctors diagnose patients faster.",
+        "group": "using"
+    },
+    {
+        "letter": "Y",
+        "title": "You",
+        "blurb": "For AI to rule the world, for now it needs 'you'.",
+        "group": "society"
+    },
+    {
+        "letter": "Z",
+        "title": "Zeroes & Ones",
+        "blurb": "The fundamental building blocks of computing.",
+        "group": "making"
+    }
+]
